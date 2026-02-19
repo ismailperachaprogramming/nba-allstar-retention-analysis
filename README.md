@@ -5,7 +5,7 @@ Data-driven analysis of how NBA teams manage All-Star talent following peak play
 This project examines retention windows, championship effects, acquisition type impact, and dominant exit mechanisms to understand how modern front offices handle star players.
 
 
-**Research Questions**
+## Research Questions
 
 How long do teams retain All-Stars after peak playoff success?
 
