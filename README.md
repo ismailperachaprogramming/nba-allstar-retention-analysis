@@ -1,5 +1,7 @@
 ## NBA All-Star Retention & Exit Analysis (2016–2026)
 
+**Dataset Used: https://www.kaggle.com/datasets/ismailperacha/nba-all-star-dependency-dataset-20162026 (Own)**
+
 Data-driven analysis of how NBA teams manage All-Star talent following peak playoff success.
 
 This project examines retention windows, championship effects, acquisition type impact, and dominant exit mechanisms to understand how modern front offices handle star players.
